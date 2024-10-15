@@ -34,3 +34,8 @@ When the device is offline:
 - on `delete`: a message will be shown that the operation is unavailable.
 
 ## App Mockup
+#### Main Screen
+![image](https://github.com/Eckchart/Mobile-Applications-Programming/blob/main/App%20Design/Main%20Screen.png)
+
+#### Edit Screen
+![image](https://github.com/Eckchart/Mobile-Applications-Programming/blob/main/App%20Design/Secondary%20Screen.png)
